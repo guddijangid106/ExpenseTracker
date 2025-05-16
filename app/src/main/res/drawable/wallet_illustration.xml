@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Modern ET Logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L90,30 L90,90 L30,90 Z"/>
+    <path
+        android:strokeColor="#7C4DFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M45,45 L75,45 M45,60 L75,60 M45,75 L75,75"/>
+</vector> 

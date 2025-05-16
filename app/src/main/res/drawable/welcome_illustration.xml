@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    
+    <!-- Wallet Body -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M40,80 L200,80 L200,180 L40,180 C35,180 32,177 32,172 L32,88 C32,83 35,80 40,80 Z"/>
+    
+    <!-- Wallet Fold -->
+    <path
+        android:fillColor="#40C4FF"
+        android:pathData="M40,80 L200,80 L200,100 L40,100 C35,100 32,97 32,92 L32,88 C32,83 35,80 40,80 Z"/>
+    
+    <!-- Money Bills -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,120 L180,120 L180,140 L60,140 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,150 L180,150 L180,170 L60,170 Z"/>
+    
+    <!-- Wallet Stitch -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M40,90 L200,90"/>
+</vector> 

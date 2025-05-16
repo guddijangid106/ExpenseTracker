@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_purple">#7C4DFF</color>
+    <color name="primary_blue">#40C4FF</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="danger_red">#FF5252</color>
+    
+    <!-- Background Colors -->
+    <color name="bg_offwhite">#FAFAFA</color>
+    <color name="bg_lightgray">#F5F5F5</color>
+    
+    <!-- Essential Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
